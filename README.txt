@@ -1,0 +1,1 @@
+This is a simple modifier tracker for tabletop games.  Double click to remove items.
